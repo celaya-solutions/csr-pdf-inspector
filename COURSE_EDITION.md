@@ -8,6 +8,10 @@ It is a Challenge project. It does not receive the shared Node, Hono, SQLite, Ra
 
 Use fake data only. Do not enter customer, health, payment, account, or private contact information.
 
+## Course use
+
+This edition is maintained for a free, noncommercial course of fewer than ten learners. The course policy applies to CSR-authored course guides and branding; it does not replace the imported software license or copyright notices. Keep the visible “Celaya Solutions Research Course Edition” notice when using the CSR course material.
+
 ## Celaya Solutions
 
 - Celaya Solutions Research Course Edition

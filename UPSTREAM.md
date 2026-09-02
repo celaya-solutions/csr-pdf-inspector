@@ -10,3 +10,7 @@
 This is a Rust and WebAssembly library. Students must design a real backend and persistent data flow before it can pass the capstone.
 
 This repository is co-branded “Celaya Solutions Research Course Edition.” It does not claim ownership of the upstream work.
+
+## Update policy
+
+This is a frozen, independent course edition. It has no upstream Git remote or automatic sync. Upstream releases are not merged automatically. An outside change is copied only after a course-specific review shows that it supports the curriculum.
