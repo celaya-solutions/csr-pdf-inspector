@@ -1,0 +1,81 @@
+# CSR Noncommercial License 1.0
+
+Copyright © 2026 Celaya Solutions. All rights reserved except as expressly granted below.
+
+Required Notice: Celaya Solutions Research Course Edition
+Required Notice: Copyright © 2026 Celaya Solutions — https://www.celayasolutions.com
+
+## Acceptance
+
+By using, copying, modifying, or distributing the software, you agree to these terms as strict obligations and conditions of the licenses granted below.
+
+## Noncommercial License Grant
+
+Celaya Solutions grants you a worldwide, royalty-free, non-exclusive license to use, run, study, copy, fork, modify, and create derivative works from the software for a permitted noncommercial purpose.
+
+You may distribute the software and your modifications for a permitted noncommercial purpose if you comply with the Distribution and Branding sections below.
+
+## Permitted Noncommercial Purposes
+
+Permitted purposes include personal projects, education, classroom work, public-interest research, nonprofit work, evaluation, testing, and a public portfolio or demonstration that does not charge for access to or use of the software.
+
+A business may use the software only for internal evaluation, training, or education that is not part of its ordinary operations and does not directly or indirectly produce revenue or commercial advantage.
+
+## No Commercialization
+
+You may not sell, rent, license for a fee, monetize, or charge for the software or a derivative work. You may not use it to provide a paid product, paid service, hosted service, consulting deliverable, advertisement-supported product, sponsorship benefit, or other activity intended for commercial advantage or monetary compensation.
+
+A separate commercial license requires prior written permission from Celaya Solutions.
+
+## Distribution
+
+Every copy or substantial portion of the software that you distribute must include:
+
+1. this complete license;
+2. both Required Notice lines above;
+3. a clear statement describing your material changes; and
+4. the source code for the version you distribute.
+
+You may not add terms that conflict with this license or imply that Celaya Solutions endorses your fork.
+
+## Required CSR Branding
+
+Every fork, modification, deployment, and distribution must retain the words “Celaya Solutions Research Course Edition” clearly and legibly:
+
+1. in the repository README;
+2. in the existing user-facing CSR brand label, footer, About screen, or equivalent interface location; and
+3. in source and distribution notices.
+
+If the software has no user-facing interface, the repository README and primary package documentation satisfy item 2.
+
+You may add your own name or a “Modified by” notice, but it must be visually subordinate to the required CSR branding. You may not remove, hide, obscure, replace, or misrepresent the required CSR branding, Celaya Solutions copyright notice, website, or contact information.
+
+This branding condition does not grant permission to use any Celaya Solutions name, logo, or mark to advertise unrelated goods or services or to suggest sponsorship or endorsement.
+
+## Third-Party Components
+
+This license covers only software and original materials owned by Celaya Solutions. Third-party components remain governed by their own licenses and notices, which must be preserved.
+
+## Patent License
+
+Celaya Solutions grants you a patent license for patent claims it can license that you would necessarily infringe by exercising the copyright permissions granted here. This patent license ends immediately if you or your organization claims that the software infringes a patent.
+
+## Violations and Cure
+
+Your rights under this license end automatically if you violate these terms. The first time Celaya Solutions gives you written notice of a violation, your rights may continue if you fully correct the violation and its effects within 30 days. Repeated violations terminate immediately.
+
+## No Other Rights
+
+No trademark license, commercial license, or right to sublicense is granted. Celaya Solutions may offer the software under other terms.
+
+## Disclaimer
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. CELAYA SOLUTIONS WILL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR THESE TERMS.
+
+## Definitions
+
+“Software” means the software and original materials Celaya Solutions provides under these terms.
+
+“Commercial advantage” includes revenue, compensation, cost avoidance in ordinary business operations, lead generation, customer acquisition, or a material benefit to a for-profit activity.
+
+“You” means the individual or entity agreeing to these terms. “Your organization” includes entities you control, that control you, or that are under common control with you.

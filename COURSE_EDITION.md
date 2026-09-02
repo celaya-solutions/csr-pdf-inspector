@@ -15,4 +15,8 @@ Use fake data only. Do not enter customer, health, payment, account, or private 
 - https://www.celayasolutions.com
 - (915) 755-5705
 
-This Challenge project keeps its required third-party license, copyright, and attribution notices. The CSR Noncommercial License does not replace those terms.
+## License
+
+`COURSE_EDITION.md`, CSR branding, catalog metadata, and CSR-authored course changes are provided under the [CSR Noncommercial License 1.0](CSR-NONCOMMERCIAL-LICENSE.md).
+
+The bundled PDF Inspector software keeps its MIT license, copyright, and attribution notices. The CSR license does not revoke rights granted by its copyright owners.

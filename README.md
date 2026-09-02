@@ -1,4 +1,4 @@
-> **Celaya Solutions Research Course Edition — Challenge project.** Read [COURSE_EDITION.md](COURSE_EDITION.md) and the required third-party [LICENSE](LICENSE) before selecting it.
+> **Celaya Solutions Research Course Edition — Challenge project.** Read the [CSR Noncommercial License](CSR-NONCOMMERCIAL-LICENSE.md), [COURSE_EDITION.md](COURSE_EDITION.md), and the required third-party [MIT License](LICENSE) before selecting it.
 
 # pdf-inspector
 
@@ -299,4 +299,6 @@ See [docs/debugging.md](docs/debugging.md) for `RUST_LOG` environment variable u
 
 ## License
 
-[MIT](LICENSE)
+CSR-authored course-edition material and branding are provided under the [CSR Noncommercial License 1.0](CSR-NONCOMMERCIAL-LICENSE.md).
+
+The bundled PDF Inspector software remains available under its original [MIT License](LICENSE).
