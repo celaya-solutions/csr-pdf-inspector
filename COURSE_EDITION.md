@@ -1,6 +1,6 @@
 # PDF Inspector: Research Course Edition
 
-This is a clean source import for the Celaya Solutions full-stack capstone project catalog.
+This is the Celaya Solutions Research Course Edition for the full-stack capstone project catalog.
 
 This is a Rust and WebAssembly library. Students must design a real backend and persistent data flow before it can pass the capstone.
 
@@ -15,4 +15,4 @@ Use fake data only. Do not enter customer, health, payment, account, or private 
 - https://www.celayasolutions.com
 - (915) 755-5705
 
-The original project identity, license, copyright, and attribution remain in place. See `UPSTREAM.md`.
+This Challenge project keeps its required third-party license, copyright, and attribution notices. The CSR Noncommercial License does not replace those terms.
